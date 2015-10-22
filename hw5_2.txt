@@ -1,0 +1,5 @@
+Adjacency matrix uses more memory [O(n*n)] and is slow to iterate over all edges. However, finding presence or absence of an edge is easy. It is useful for dense graphs.
+
+Adjacency lists uses memory proportional to the number of edges. Iteration over all edges is very fast but finding presence or absence of an edge is slow. It is very efficient for sparse graphs.
+
+http://courses.cs.washington.edu/courses/csep521/99sp/lectures/lecture01/sld029.htm
