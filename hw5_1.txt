@@ -1,3 +1,0 @@
-Directed Vs. Undirected graphs:
-
-http://webwhompers.com/graph-theory.html 
